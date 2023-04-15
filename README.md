@@ -19,26 +19,26 @@ This website analyses the soft skills of the user in a fun way.This is a user-fr
 
 ## Features
 
-- Login and Signup 
+- Slider Login and Signup 
 - Email and password verification from database
 - Score and Timer
 - Scoreboard/LeaderBoard
 - astounding UI
 - Basic GUI
--- The project contains a Images and Button Elements.
+ - The project contains a Images and Button Elements.
 - Basic Controls
--- This project uses a basic controls to interact with the game.
+ - This project uses a basic controls to interact with the game.
 - User-friendly Interface
---This project was design in a simple user-friendly interface web application.
+ - This project was design in a simple user-friendly interface web application.
 
 
 ## Solutions and Dead-End
-- The solution is similar to the wumpus world in AI
+<u><b> The solution is similar to the wumpus world in AI</b></u>
 * A 5*5 grid of rooms . The agent always starts in [1,1] , facing to the right. 
 * The locations of the grid of the gold and the wumpus are chosen randomly , with a uniform distribution, from the squares other than the start square
 * Each square other than the start can be a pit , with probability 0.2
 
-- Deadends:
+<u><b> Deadends:</b></u>
 * The game end when the user dies but i have given the maximum lives to the user as 25 to find the treasure
 * The user climbs out of the grid
 
