@@ -62,11 +62,12 @@ To deploy this project run
 
 
 ## Screenshots
+![login](https://user-images.githubusercontent.com/56729344/232242490-61806ecb-807c-4aeb-a5da-3825890ac2ba.png)
+![signup](https://user-images.githubusercontent.com/56729344/232242506-8adb1cc0-10f2-4d04-b442-e05a6f6fcf3a.png)
+![home_page](https://user-images.githubusercontent.com/56729344/232242510-fb8ff2b4-ecf9-4d0f-879b-f81e7f79a140.png)
+![game_sample](https://user-images.githubusercontent.com/56729344/232242512-ed710caf-28ab-4e1a-9c58-c4f0cf4fa1ac.png)
 
-![login](./tree/master/login/screenschots_puzzle/login.png)
-![signup](./tree/master/login/screenschots_puzzle/signup.png)
-![main-page](./tree/master/login/screenschots_puzzle/home_page.png)
-![game](./tree/master/login/screenschots_puzzle/game_sample.png)
+
 
 
 ## Support
