@@ -1,5 +1,5 @@
 
-# Puzzle Quest - An interactive puzzle application
+# Puzzle Quest - An interactive puzzle application</b>
 
 It is a website based an interactive puzzle application which explore the soft skills of the user like aptitude skills. It is like a treasure hunt where the user need to find the treasure using the clue provided.
 This website analyses the soft skills of the user in a fun way.This is a user-friendly kind of application that is free to be modified. The gameplay is simple you just need to find the treasure hidden in the tile. The player can play the game using mouse, you just only need to use the Left Mouse Button to dig and locate the treasure. Your main goal in the game is to find and locate the treasure before your life runs out. You will be given a limited amount of life enough to get your treasure. Each dig will deduct your lifebar and will decrease continuously if the treasure is not found yet. There is a hint each time you dug, try to follow the hint in order to get your treasure.
@@ -15,7 +15,9 @@ This website analyses the soft skills of the user in a fun way.This is a user-fr
 
 **Database:** MongoDb (shell and Compass)
 
-
+- [MongoDB](https://www.mongodb.com/) - [🛠️](https://stackshare.io/mongodb) - [🐙](https://github.com/mongodb/mongo) - A document and JSON-oriented database.
+- [Express](https://expressjs.com/) - [🛠️](https://stackshare.io/expressjs) - [🐙](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for Node.js.
+- [Node.js](https://nodejs.org/en/) - [🛠️](https://stackshare.io/nodejs) - [🐙](https://github.com/nodejs/node) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 
 ## Features
 
