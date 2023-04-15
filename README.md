@@ -7,6 +7,7 @@ This website analyses the soft skills of the user in a fun way.This is a user-fr
 
 ## Tech Stack
 
+
 **Client:** HTML, CSS, javaScript, hbs, jQuery, Bootstrap 
 
 **Server:** Node, Express 
