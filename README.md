@@ -63,10 +63,10 @@ To deploy this project run
 
 ## Screenshots
 
-![login](./login/screenschots_puzzle/login.png)
-![signup](./login/screenschots_puzzle/signup.png)
-![main-page](./login/screenschots_puzzle/home_page.png)
-![game](./login/screenschots_puzzle/game_sample.png)
+![login](./tree/master/login/screenschots_puzzle/login.png)
+![signup](./tree/master/login/screenschots_puzzle/signup.png)
+![main-page](./tree/master/login/screenschots_puzzle/home_page.png)
+![game](./tree/master/login/screenschots_puzzle/game_sample.png)
 
 
 ## Support
