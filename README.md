@@ -73,14 +73,6 @@ Start the server
 ```
 
 
-## Deployment
-
-To deploy this project run
-
-```bash
-  npm run deploy
-```
-
 
 ## Screenshots
 ![login](https://user-images.githubusercontent.com/56729344/232242490-61806ecb-807c-4aeb-a5da-3825890ac2ba.png)
